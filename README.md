@@ -13,7 +13,8 @@
 
 🖥️ Deeply fascinated by all things in computer science - currently studying more about algorithms and data structures.
 
-📱 Aprendendo Java e Spring Boot para construir aplicações web robustas e escaláveis. 
+📱Learning Java and Spring Boot to build robust and scalable web applications.
+
 
 🛠️ Continuously exploring new technologies and methodologies in software engineering.
 
